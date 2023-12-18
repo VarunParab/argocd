@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   source:
-    repoURL: https://github.com/VarunParab/argocd-gitops
+    repoURL: https://github.com/VarunParab/argocd
     path: manifests
     targetRevision: HEAD
   destination:
